@@ -1,0 +1,14 @@
+/Users/orodev/Documents/GitHub/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.deps.json
+/Users/orodev/Documents/GitHub/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.runtimeconfig.json
+/Users/orodev/Documents/GitHub/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.runtimeconfig.dev.json
+/Users/orodev/Documents/GitHub/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.dll
+/Users/orodev/Documents/GitHub/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.pdb
+/Users/orodev/Documents/GitHub/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.csprojAssemblyReference.cache
+/Users/orodev/Documents/GitHub/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.csproj.CoreCompileInputs.cache
+/Users/orodev/Documents/GitHub/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.RazorAssemblyInfo.cache
+/Users/orodev/Documents/GitHub/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.RazorAssemblyInfo.cs
+/Users/orodev/Documents/GitHub/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.AssemblyInfoInputs.cache
+/Users/orodev/Documents/GitHub/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.AssemblyInfo.cs
+/Users/orodev/Documents/GitHub/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.RazorTargetAssemblyInfo.cache
+/Users/orodev/Documents/GitHub/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.dll
+/Users/orodev/Documents/GitHub/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.pdb
